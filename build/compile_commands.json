@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/learning_codes/games_work/Homework5/build",
+  "command": "D:\\learning_codes\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -pedantic -Wshadow -Wreturn-type -o CMakeFiles\\RayTracing.dir\\main.cpp.obj -c D:\\learning_codes\\games_work\\Homework5\\Assignment5\\main.cpp",
+  "file": "D:/learning_codes/games_work/Homework5/Assignment5/main.cpp",
+  "output": "CMakeFiles/RayTracing.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/learning_codes/games_work/Homework5/build",
+  "command": "D:\\learning_codes\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -pedantic -Wshadow -Wreturn-type -o CMakeFiles\\RayTracing.dir\\Scene.cpp.obj -c D:\\learning_codes\\games_work\\Homework5\\Assignment5\\Scene.cpp",
+  "file": "D:/learning_codes/games_work/Homework5/Assignment5/Scene.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Scene.cpp.obj"
+},
+{
+  "directory": "D:/learning_codes/games_work/Homework5/build",
+  "command": "D:\\learning_codes\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -pedantic -Wshadow -Wreturn-type -o CMakeFiles\\RayTracing.dir\\Renderer.cpp.obj -c D:\\learning_codes\\games_work\\Homework5\\Assignment5\\Renderer.cpp",
+  "file": "D:/learning_codes/games_work/Homework5/Assignment5/Renderer.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Renderer.cpp.obj"
+}
+]
